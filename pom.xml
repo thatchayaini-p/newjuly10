@@ -1,3 +1,3 @@
-dir('my-app') {
+dir('demoapp') {
     sh 'mvn clean package'
 }
