@@ -1,0 +1,3 @@
+dir('my-app') {
+    sh 'mvn clean package'
+}
